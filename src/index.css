@@ -103,7 +103,7 @@ body{
   background: #f3560e;
   height: 300px;
   width: 320px;
-  border: 5px solid #eee;
+  border: 9px solid #eee;
   border-radius: 30px;
   display: flex;
   flex-direction: column;
@@ -114,7 +114,7 @@ body{
 
 .winner .win {
   margin: 0 auto;
-  width: fit-content;
+  width: fit-content; 
   border: 6px solid #eee;
   border-radius: 10px;
   display: flex;
